@@ -1,7 +1,0 @@
-
-================================================================================
-Traceback (most recent call last):
-  File "backup_tool_prod_final_fixed.py", line 4808, in main
-  File "backup_tool_prod_final_fixed.py", line 510, in __init__
-  File "backup_tool_prod_final_fixed.py", line 2029, in create_menu
-AttributeError: 'BackupApplication' object has no attribute 'show_about'
